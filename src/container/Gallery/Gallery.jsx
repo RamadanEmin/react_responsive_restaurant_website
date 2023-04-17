@@ -3,6 +3,7 @@ import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
+import './Gallery.css';
 
 const galleryImages = [images.gallery01, images.gallery02, images.gallery03, images.gallery04];
 
